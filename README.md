@@ -1,6 +1,6 @@
-# 🔥🔥 Connectify  Social Media App  
+# 🔥🔥   Social Media App  
 
-Connectify  is a fully functional social media app with multiple features built with flutter and dart.
+This is a fully functional social media app with multiple features built with flutter and dart.
 
 Star⭐ the repo if you like what you see😉.
 
